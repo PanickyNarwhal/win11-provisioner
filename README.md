@@ -13,7 +13,7 @@ Edit `config.json` to match your organization's software. Use `winget search <ap
 
 ```json
 {
-  "AppsToInstall",: [
+  "AppsToInstall": [
     "App.You.Want.Installed",
     "Mozilla.Firefox"
   ]
