@@ -16,7 +16,7 @@ Edit `config.json` to match your organization's software. Use `winget search <ap
   "AppsToInstall": [
     "App.You.Want.Installed",
     "Mozilla.Firefox"
-  ]
+  ],
   "BloatwareToRemove": [
     "Apps.You.Want.Removed",
     "Microsoft.XboxApp"
