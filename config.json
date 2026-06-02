@@ -1,0 +1,11 @@
+{
+  "AppsToInstall": [
+    "App.You.Want.Installed",
+    "Mozilla.Firefox"
+  ],
+  "BloatwareToRemove": [
+    "Apps.You.Want.Removed",
+    "Microsoft.XboxApp"
+  ],
+  "ComputerNamePrefix": "Corporationname-Laptop-"
+}
