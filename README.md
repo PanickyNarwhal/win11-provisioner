@@ -35,7 +35,7 @@ Edit `config.json` to match your organization's software. Use `winget search <ap
    * Upload both the `Provision.ps1` and `config.json` from this repository.
 4. Set the Launch Command
    * Go to `ProvisioningCommands -> DeviceContext -> CommandLine.`.
-   * Enter the following command to bypass execution policies: `cmd.exe /c powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -File .\Provision.ps1
+   * Enter the following command to bypass execution policies: `cmd.exe /c powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -File .\Provision.ps1`
 5. Export the project as a Provisiong Package(.ppkg) and save it to the root of a USB formated to NTFS or FAT.
 
 ### Usage
